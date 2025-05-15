@@ -1,0 +1,23 @@
+[project]
+name = "finemath"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "datasets>=3.6.0",
+    "dtreeviz==1.4.1",
+    "graphviz>=0.20.3",
+    "hf-xet>=1.1.1",
+    "ipykernel>=6.29.5",
+    "matplotlib>=3.10.3",
+    "numpy>=2.2.5",
+    "pandas>=2.2.3",
+    "pip>=25.1.1",
+    "scikit-learn>=1.6.1",
+    "scipy>=1.15.3",
+    "setuptools>=80.7.1",
+    "tqdm>=4.67.1",
+    "treeinterpreter>=0.2.3",
+    "waterfallcharts>=3.8",
+]

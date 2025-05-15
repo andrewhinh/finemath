@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# History
+.history/
+
+# Data
+data/
+finemath-4plus-100k/
